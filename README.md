@@ -1,5 +1,3 @@
-# Gabriel Lanzac
-
 Estudante de Ciência da Computação na PUC Minas e desenvolvedor focado em **back-end**, **IA aplicada** e **sistemas web**.  
 Gosto de criar soluções simples, eficientes e com propósito.
 
