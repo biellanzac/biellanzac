@@ -19,20 +19,11 @@ Gosto de criar soluções simples, eficientes e com propósito.
 - **Sistema Jurídico** – Upload e gerenciamento de documentos para escritório  
 - **Visão Computacional na Construção Civil** – Prototipagem com YOLO
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=biellanzac&show_icons=true&theme=calm&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellanzac&layout=compact&theme=calm&hide_border=true" />
-
-</div>
 
 ---
 
 ## 📫 Contato
-- Instagram: **[@gabscript](https://instagram.com/gabscript)**  
+- Instagram: **[@biellanzac](https://instagram.com/biellanzac)**  
 - GitHub: **@biellanzac**
 
